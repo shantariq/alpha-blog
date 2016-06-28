@@ -39,14 +39,6 @@ height:650px;
 	font-size:1.7em;
 
 }
-.footer{
-	
-margin-top:45px;
-padding-top:5px;
-border-top: 2px solid #ffe6e6;
-color:#777;
-}
-
 .article_actions{
 border-top: 2px solid #eaeaea;
 padding-top:5px;	
@@ -55,6 +47,27 @@ padding-top:5px;
 .description{
 	margin-top:0;
 }
+
+.article-title{
+font-size: 1.5em;	
+font-weight:bold;
+
+}
+.article-body{
+	border-top:2px solid #eaeaea;
+	padding-top:15px;
+	padding-bottom:15px;
+
+}
+
+.footer{
+	
+margin-top:45px;
+padding-top:5px;
+border-top: 2px solid #ffe6e6;
+color:#777;
+}
+
 
 
 footer a:hover{
